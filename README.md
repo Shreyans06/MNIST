@@ -1,1 +1,1 @@
-# The repo contains MNIST handwritten digit recognition implementation using PyTorch. First a standard CNN model is used and later a ResNet model is used to perform training. Later the results are evaluated using various metrics. 
+This repo contains MNIST handwritten digit recognition implementation using PyTorch. First a standard CNN model is used and later a ResNet model is used to perform training. Later the results are evaluated using various metrics. 
